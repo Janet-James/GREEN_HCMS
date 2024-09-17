@@ -1,0 +1,35 @@
+﻿IOError at /doc_viewer/
+[Errno 2] No such file or directory: u'/home/next/.hcms/uploads/L&D/86193.doc'
+Request Method:
+GET
+Request URL:
+http://192.168.11.26:8000/doc_viewer/?id=86193
+Django Version:
+1.11.5
+Exception Type:
+IOError
+Exception Value:
+[Errno 2] No such file or directory: u'/home/next/.hcms/uploads/L&D/86193.doc'
+Exception Location:
+/home/next/git/NEXT_HCMS/MyNext_Dashboard/communication_empowerment/views.py in doc_viewer, line 692
+Python Executable:
+/home/next/next_hcms_env/bin/python
+Python Version:
+2.7.6
+Python Path:
+['/home/next/git/NEXT_HCMS',
+ '/home/next/next_hcms_env/lib/python2.7',
+ '/home/next/next_hcms_env/lib/python2.7/plat-x86_64-linux-gnu',
+ '/home/next/next_hcms_env/lib/python2.7/lib-tk',
+ '/home/next/next_hcms_env/lib/python2.7/lib-old',
+ '/home/next/next_hcms_env/lib/python2.7/lib-dynload',
+ '/usr/lib/python2.7',
+ '/usr/lib/python2.7/plat-x86_64-linux-gnu',
+ '/usr/lib/python2.7/lib-tk',
+ '/home/next/next_hcms_env/local/lib/python2.7/site-packages',
+ '/home/next/next_hcms_env/local/lib/python2.7/site-packages/EKM_Client-1.3-py2.7.egg',
+ '/home/next/next_hcms_env/lib/python2.7/site-packages',
+ '/home/next/next_hcms_env/lib/python2.7/site-packages/EKM_Client-1.3-py2.7.egg']
+Server time:
+Fri, 10 May 2019 04:12:49 +0000
+

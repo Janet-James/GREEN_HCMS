@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/nextaps/Green_HCMS_API/crontab/run/asyn_mail.py", line 13, in <module>
+    import psycopg2
+ImportError: No module named psycopg2
+INFO:root:Started : 2022-12-01 05:44:01
+INFO:root:Finished : 2022-12-01 05:44:01

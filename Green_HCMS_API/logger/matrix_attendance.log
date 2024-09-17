@@ -1,0 +1,32 @@
+WorkTime None
+WorkTime None
+WorkTime 17
+1
+punch1 update
+utc===> 2020-04-30 09:42:54
+Punch2===> 2020-04-30 09:42:54
+sPunch2===> 2020-04-30 15:12:54
+2
+WorkTime 177
+1
+punch1 update
+utc===> 2020-04-30 11:48:23
+Punch2===> 2020-04-30 11:48:23
+sPunch2===> 2020-04-30 17:18:23
+2
+INFO:root:Started : 2022-06-27 14:58:16
+INFO:root:Started : 2022-06-27 14:59:31
+INFO:root:Started : 2022-06-27 15:00:50
+INFO:root:Started : 2022-06-27 15:01:27
+INFO:root:Started : 2022-06-27 15:02:30
+INFO:root:Finished : 2022-06-27 15:02:31
+INFO:root:Started : 2022-06-28 04:37:51
+INFO:root:Finished : 2022-06-28 04:37:52
+INFO:root:Started : 2022-06-28 04:50:16
+INFO:root:Finished : 2022-06-28 04:50:18
+INFO:root:Started : 2022-06-28 04:55:49
+INFO:root:Finished : 2022-06-28 04:55:50
+INFO:root:Started : 2022-06-29 14:27:59
+INFO:root:Finished : 2022-06-29 14:28:00
+INFO:root:Started : 2022-06-30 15:50:33
+INFO:root:Finished : 2022-06-30 15:50:34
